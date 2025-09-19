@@ -9,7 +9,7 @@ and counts reps after each completed set.
 ### 🧾 Flowchart  
 ![Flowchart](img/Flowchart.drawio.png)
 
-### 🎥 Pre-recorded Detection  
+### 🎥 Set-Based Counting  
 ![Pre Recorded Detection](img/Pre%20recorded%20detection.png)
 
 ### 📡 Live Detection  
