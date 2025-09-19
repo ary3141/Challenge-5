@@ -4,6 +4,17 @@ This project is an **Apple Watch app** that uses **Core Motion** to automaticall
 It streams data from the watch's accelerometer in real time, applies a **live peak detection algorithm**,  
 and counts reps after each completed set.  
 
+## 📸 Preview  
+
+### 🧾 Flowchart  
+![Flowchart](img/Flowchart.drawio.png)
+
+### 🎥 Pre-recorded Detection  
+![Pre Recorded Detection](img/Pre%20recorded%20detection.png)
+
+### 📡 Live Detection  
+![Live Detection](img/Live%20detection.png)
+
 ## 📱 Features  
 
 - 📊 **Real-time motion data** streaming from Apple Watch  
