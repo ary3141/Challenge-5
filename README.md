@@ -20,10 +20,8 @@ and counts reps after each completed set.
 - **Real-time motion data** streaming from Apple Watch  
 - **Live rep detection** with peak analysis  
 - **Set-based counting** – reps are recorded after you complete a set  
-- **Visual feedback** on the watch screen  
-- Designed for **gym movements** like curls, presses, and squats  
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 - **SwiftUI** – clean & reactive user interface  
 - **Core Motion** – access to accelerometer & gyroscope data  
